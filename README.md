@@ -6,7 +6,8 @@
 Front end: HTML, CSS, Javascript
 
 ### Screenshots
-![image](https://user-images.githubusercontent.com/84243683/130368529-1d62dfe4-2e98-4238-9b0e-617266a34337.png)
 
+![image](https://user-images.githubusercontent.com/84243683/130368727-b39d3898-78fa-4f4d-b3c2-4bc17d6abe76.png)
 
+![image](https://user-images.githubusercontent.com/84243683/130368739-5a59e231-83dc-4fe4-a7af-877b826cc58b.png)
 
