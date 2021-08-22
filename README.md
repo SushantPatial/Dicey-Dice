@@ -7,7 +7,7 @@ Front end: HTML, CSS, Javascript
 
 ### Try it out!
 
-sushantpatial.github.io/Dicey-Dice
+https://sushantpatial.github.io/Dicey-Dice
 
 ### Screenshots
 
