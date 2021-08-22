@@ -3,8 +3,8 @@ document.getElementById("btn").onclick = function()
   var randomNo1 = Math.ceil(Math.random()*6);
   var randomNo2 = Math.ceil(Math.random()*6);
 
-  document.getElementById("die1").src = "E:/WebPage/NEW%20COURSE/Dicey/images/dice" + randomNo1 + ".png";
-  document.getElementById("die2").src = "E:/WebPage/NEW%20COURSE/Dicey/images/dice" + randomNo2 + ".png";
+  document.getElementById("die1").src = "images/dice" + randomNo1 + ".png";
+  document.getElementById("die2").src = "images/dice" + randomNo2 + ".png";
 
   if (randomNo1 == randomNo2)
   {
