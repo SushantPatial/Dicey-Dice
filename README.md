@@ -1,8 +1,8 @@
 # Dicey Dice
 
-### Settle all your disputes on click of a button!
+#### Settle all your disputes on click of a button!
 
-### Languages used:-
+### Languages used
 Front end: HTML, CSS, JavaScript
 
 ### Try it out!
